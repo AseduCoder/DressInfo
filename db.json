@@ -1,0 +1,29 @@
+{
+  "acordion": [
+    {
+      "Check": "bx bxs-check-circle",
+      "CapName": "Pattern Print",
+      "Like": "bx bxs-heart",
+      "CapButton": "New",
+      "InfoBtn": "Sale",
+      "Prise": "27 550₽",
+      "AboutCap": "Qui officia deserunt mollit anim id est labrum. Duis aute irret dolor derit into voludptate velit esse.",
+      "CapOlcham": "L",
+      "Color": "черный",
+      "ColorBox": "Info-Dark",
+      "New": "новая без бирки",
+      "Brend": "Versace",
+      "buttonNumner": "1",
+      "Buy": "Купить",
+      "Man": "../imgs/Man.png",
+      "ManName": "Владислав Синицин",
+      "ManData": "На cloza с 14.03.21",
+      "ManStar": "bx bxs-star",
+      "ManFollower": "261 голосов",
+      "ManSavar": "8 товаров в наличии",
+      "GmailBtn": "Написать",
+      "Gmail": "bx bxs-envelope",
+      "id": "1"
+    }
+  ]
+}
